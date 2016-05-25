@@ -1,0 +1,12 @@
+prefix="/usr/local/web/libs"
+exec_prefix="/usr/local/web/libs"
+libdir="/usr/local/web/libs/lib"
+includedir="/usr/local/web/libs/include"
+
+Name: FreeType 2
+Description: A free, high-quality, and portable font engine.
+Version: 16.1.10
+Requires:
+Libs: -L${libdir} -lfreetype
+Libs.private: -lz -lbz2 
+Cflags: -I${includedir}/freetype2 -I${includedir}

@@ -1,0 +1,24 @@
+@author hange
+@date 2016-5-23
+@email 489010302@qq.com
+解压即用的nginx + php 服务器
+
+[压缩包内内容：]
+nginx可执行文件
+php可执行文件
+php常用扩展包：memcache，memcached，mysqli，pdo_mysql，mcrypt等等，基本的php库都包含了，可以查看phpinfo搜索是否包含你需要的扩展，如果没有，请自行安装或者联系我
+
+[使用方法：]
+请将该压缩包解压至/usr/local/下，解压后的目录为/usr/local/web
+进入该目录，root权限下给install.sh 执行权限 : chmod +x install.sh
+执行source install.sh  或者.install.sh
+出现success字样，即为部署成功
+
+[服务器启动方式为]
+/usr/local/web/nginx/sbin/nginx
+/usr/local/web/php/sbin/php-fpm -D -c /usr/local/web/php/etc/php.ini
+
+如需更换部署目录，请修改install.sh 中的WEB_SERVICE_PATH 指定你的目录，并修改nginx server中指定的应用地址
+
+[测试]
+该项目已在centos6.5中测试通过

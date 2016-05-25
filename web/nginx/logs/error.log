@@ -1,0 +1,95 @@
+2014/08/29 16:45:10 [emerg] 13058#0: open() "/usr/local/web/nginx/conf/fcgi.conf" failed (2: No such file or directory) in /usr/local/web/nginx/conf/nginx.conf:70
+2014/08/29 16:45:34 [warn] 13060#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:84
+2014/08/29 16:45:34 [emerg] 13060#0: open() "/data/logs/access.log" failed (2: No such file or directory)
+2014/08/29 16:46:08 [warn] 13088#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:84
+2014/08/29 16:46:08 [emerg] 13088#0: open() "/data/logs/access.log" failed (2: No such file or directory)
+2014/08/29 16:46:23 [warn] 13089#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:84
+2014/08/29 16:46:23 [emerg] 13089#0: open() "/data/logs/access.log" failed (2: No such file or directory)
+2014/08/29 16:46:54 [warn] 13091#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:84
+2014/08/29 16:46:57 [warn] 13092#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:84
+2014/08/29 16:50:19 [warn] 13237#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:84
+2014/08/29 16:50:22 [warn] 13238#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:84
+2014/08/29 16:52:55 [warn] 13308#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:84
+2014/08/29 16:57:13 [warn] 13484#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:84
+2014/08/29 17:08:46 [emerg] 13845#0: getpwnam("www:www") failed in /usr/local/web/nginx/conf/nginx.conf:2
+2014/08/29 17:09:16 [emerg] 13874#0: open() "/usr/local/web/nginx/conf/fcgi.conf" failed (2: No such file or directory) in /usr/local/web/nginx/conf/nginx.conf:54
+2014/08/29 17:19:49 [warn] 14212#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:85
+2014/08/29 17:19:57 [warn] 14213#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:85
+2014/09/11 11:19:40 [warn] 23834#0: duplicate MIME type "text/html" in /usr/local/web/nginx/conf/nginx.conf:51
+2014/09/11 11:19:40 [warn] 23834#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:85
+2014/09/11 11:21:08 [warn] 23905#0: duplicate MIME type "text/html" in /usr/local/web/nginx/conf/nginx.conf:51
+2014/09/11 11:21:08 [warn] 23905#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:85
+2014/09/11 11:21:21 [warn] 23907#0: duplicate MIME type "text/html" in /usr/local/web/nginx/conf/nginx.conf:51
+2014/09/11 11:21:21 [warn] 23907#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:85
+2014/09/11 11:21:21 [notice] 23907#0: signal process started
+2014/09/11 11:22:52 [warn] 23945#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:85
+2014/09/11 11:22:52 [notice] 23945#0: signal process started
+2014/10/16 10:43:19 [warn] 20252#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:90
+2014/10/16 10:44:26 [warn] 20282#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:90
+2014/10/16 10:44:26 [notice] 20282#0: signal process started
+2014/10/16 10:48:39 [emerg] 20408#0: invalid number of arguments in "rewrite" directive in /usr/local/web/nginx/conf/nginx.conf:91
+2014/10/16 10:49:59 [warn] 20437#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:91
+2014/10/16 10:50:09 [warn] 20475#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:91
+2014/10/16 10:50:09 [notice] 20475#0: signal process started
+2014/10/16 10:57:05 [warn] 20683#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:90
+2014/10/16 10:57:10 [warn] 20684#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:90
+2014/10/16 10:57:10 [notice] 20684#0: signal process started
+2014/11/14 11:30:24 [warn] 18378#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:95
+2014/11/14 11:30:39 [warn] 18379#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:95
+2014/11/14 11:30:39 [notice] 18379#0: signal process started
+2014/11/14 12:02:03 [warn] 19410#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:96
+2014/11/14 12:02:10 [warn] 19411#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:96
+2014/11/14 12:02:10 [notice] 19411#0: signal process started
+2014/11/14 12:06:25 [warn] 19557#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:96
+2014/11/14 12:06:32 [warn] 19558#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:96
+2014/11/14 12:06:32 [notice] 19558#0: signal process started
+2014/11/14 12:10:22 [warn] 19690#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:95
+2014/11/14 12:10:25 [warn] 19691#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:95
+2014/11/14 12:10:25 [notice] 19691#0: signal process started
+2014/11/26 19:51:48 [warn] 3961#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:95
+2014/11/26 19:54:04 [warn] 4047#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:95
+2014/11/27 03:22:45 [warn] 30112#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:95
+2014/11/27 03:22:54 [warn] 30113#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:95
+2014/11/27 03:22:54 [notice] 30113#0: signal process started
+2014/11/27 03:24:25 [warn] 30178#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:95
+2014/11/27 03:24:25 [notice] 30178#0: signal process started
+2014/11/27 03:27:12 [warn] 30278#0: duplicate MIME type "text/html" in /usr/local/web/nginx/conf/nginx.conf:51
+2014/11/27 03:27:12 [warn] 30278#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:95
+2014/11/27 03:27:12 [notice] 30278#0: signal process started
+2014/11/27 03:31:00 [warn] 30381#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:95
+2014/11/27 03:31:00 [notice] 30381#0: signal process started
+2014/11/27 03:31:29 [warn] 30417#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:95
+2014/11/27 03:31:29 [notice] 30417#0: signal process started
+2014/11/27 03:32:03 [warn] 30455#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:95
+2014/11/27 03:32:03 [notice] 30455#0: signal process started
+2014/12/02 14:56:18 [warn] 1789#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:95
+2015/01/09 10:46:33 [warn] 18793#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:95
+2015/01/09 10:46:33 [warn] 18793#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:138
+2015/01/09 10:46:33 [emerg] 18793#0: duplicate "log_format" name "access" in /usr/local/web/nginx/conf/nginx.conf:138
+2015/01/09 10:52:57 [warn] 19995#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:95
+2015/01/09 10:52:57 [warn] 19995#0: the "log_format" directive may be used only on "http" level in /usr/local/web/nginx/conf/nginx.conf:138
+2015/01/09 10:52:57 [notice] 19995#0: signal process started
+2015/01/09 10:55:55 [emerg] 20562#0: unknown log format "access" in /usr/local/web/nginx/conf/nginx.conf:93
+2015/01/09 10:57:55 [notice] 20933#0: signal process started
+2015/01/09 11:01:12 [emerg] 21600#0: a duplicate default server for 0.0.0.0:80 in /usr/local/web/nginx/conf/nginx.conf:101
+2015/01/09 11:01:38 [notice] 21685#0: signal process started
+2015/01/09 11:08:24 [notice] 22963#0: signal process started
+2015/01/09 11:09:12 [notice] 23120#0: signal process started
+2015/01/09 11:15:19 [notice] 24285#0: signal process started
+2015/06/11 16:39:02 [notice] 8770#0: signal process started
+2015/07/08 15:57:52 [notice] 7337#0: signal process started
+2015/07/08 15:59:41 [emerg] 7716#0: a duplicate default server for 0.0.0.0:80 in /usr/local/web/nginx/conf/nginx.conf:101
+2015/07/08 16:00:12 [emerg] 7850#0: a duplicate default server for 0.0.0.0:80 in /usr/local/web/nginx/conf/nginx.conf:101
+2015/07/08 16:01:05 [notice] 8054#0: signal process started
+2015/07/24 14:01:11 [notice] 23047#0: signal process started
+2015/08/05 16:01:27 [emerg] 24658#0: unexpected "}" in /usr/local/web/nginx/conf/nginx.conf:219
+2015/08/05 16:59:01 [notice] 3754#0: signal process started
+2015/09/10 11:47:27 [notice] 11528#0: signal process started
+2016/05/10 11:48:55 [emerg] 21583#0: directive "root" is not terminated by ";" in /usr/local/web/nginx/conf/conf.d/official.conf:6
+2016/05/10 11:49:15 [emerg] 21636#0: open() "/usr/local/etc/nginx/fastcgi.conf" failed (2: No such file or directory) in /usr/local/web/nginx/conf/conf.d/official.conf:35
+2016/05/10 11:53:26 [notice] 21931#0: signal process started
+2016/05/10 12:00:12 [emerg] 22425#0: unexpected "{" in /usr/local/web/nginx/conf/conf.d/official.conf:19
+2016/05/10 12:00:40 [notice] 22435#0: signal process started
+2016/05/12 10:11:12 [notice] 26679#0: signal process started
+2016/05/23 11:38:11 [emerg] 2698#0: getpwnam("www") failed in /usr/local/web/nginx/conf/nginx.conf:1
+2016/05/24 19:13:50 [notice] 26566#0: signal process started
